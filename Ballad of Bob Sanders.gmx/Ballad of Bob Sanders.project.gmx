@@ -34,7 +34,6 @@
     <object>objects\Over_Text</object>
     <object>objects\Room_Transition</object>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\room0</room>
     <room>rooms\room1</room>
